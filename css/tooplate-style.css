@@ -21,7 +21,8 @@ body {
 
 p {
 	font-size: 13px;
-	color: #7a7a7a;
+	/* color: #7a7a7a; */
+	color: #fff;
 	line-height: 22px;
 }
 
